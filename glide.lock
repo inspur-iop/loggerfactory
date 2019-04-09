@@ -1,0 +1,6 @@
+hash: a5468f34d1764708dcd1128a045580afb863b10a2ba0d0cc7bd900a9e5dcbe01
+updated: 2018-11-08T11:30:03.348973+08:00
+imports:
+- name: github.com/alecthomas/log4go
+  version: d146e6b86faab5f7e4d135cc63b749d74bf0d4a6
+testImports: []
